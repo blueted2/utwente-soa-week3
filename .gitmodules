@@ -1,0 +1,3 @@
+[submodule "workshop-json"]
+	path = workshop-json
+	url = .\\workshop-json
